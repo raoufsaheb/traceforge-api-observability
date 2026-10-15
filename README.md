@@ -182,8 +182,3 @@ TraceForge is pre-configured for automated SPA deployment via `netlify.toml`:
   status = 200
 ```
 
----
-
-## 📄 License
-
-MIT License. Designed and developed as a portfolio showcase piece.
